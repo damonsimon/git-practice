@@ -1,1 +1,2 @@
 This is file3
+Updated content for file3
